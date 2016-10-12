@@ -1,0 +1,68 @@
+IMPORTANTE: Este fichero debe ser abierto con Notepad++ para una
+correcta visualización.
+
+Para poner los puntos:
+
+
+				|
+				|
+				|
+				|
+				|
+				|
+(-26.08, 40)  *	|
+				|
+ (-23.4, 30)  *	|
+				|
+				|
+				|
+				|
+				|
+				|
+				|
+				|
+				|-----------------------------------------
+										*		*
+								(30, -9.28)	 (40, -6.6)
+
+
+En el programa:
+
+	1º Punto Eje X:	30 	 -9,28			2ºPunto Eje X: 40  -6.6
+
+
+	1º Punto Eje Y:	-23.4  30			2ºPunto Eje Y: -26,08  		40
+
+		Fichero IN:squareInput.vc1
+						
+		Fichero OUT:squareOutput.vc1
+
+
+
+	Java usa puntos para los decimales, pero en la interfaz de usuario se
+	puede usar puntos o comas.
+
+
+	El programa devuelve en el archivo squareOutput.vc1 toda la sucesión de
+	comandos que habría que usar.
+
+	Se ha implementado el comando move (absoluto) y r (relativo).
+
+	Se ha implementado un botón de STOP por si fuera necesario abortar la
+	ejecución actual, en cuyo caso debería no ejecutar ninguna línea más,
+	a partir de ese momento.
+
+
+
+
+Para ejecutar:
+
+	Debe estar en la misma carpeta el fichero de entrada y el .jar que
+	se adjunta. El fichero squareOutput.vc1 se crea automáticamente al
+	pulsar PLAY.
+
+
+Nota extra:
+
+	En Windows XP y Vista se ejecutan perfectamentamente los .jar al hacer
+	doble click. En Windows 7 y posteriores se recomienda ejecutar el .bat.

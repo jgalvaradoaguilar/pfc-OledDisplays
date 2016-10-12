@@ -1,0 +1,10 @@
+// Sets velocity and acceleration.
+100 sa
+10 sv
+// The square is drawn.
+10 10 2 m
+10 0 0 r
+20 20 2 m
+-10 0 0 r
+10 10 2 m
+// End.
